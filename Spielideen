@@ -5,7 +5,7 @@ Spielvorbereitung: Durch zufällige Kombination von x Map Areas wird eine Map ge
 
 Spielziel: Das Monster gewinnt wenn alle Kämpfer ausgeschaltet sind. Die Kämpfer gewinnen wenn das Monster ausgeschaltet ist.
 
-Spielablauf: Die Kämpfer suchen einander um gemeinsam gegen das Monster zu kämpfen. Das Monster sucht die Kämpfer um sie auszuschalten. Wird ein Kämpfer ausgeschaltet, ?????????. 
+Spielablauf: Die Kämpfer suchen einander um gemeinsam gegen das Monster zu kämpfen. Das Monster sucht die Kämpfer um sie auszuschalten. Wird ein Kämpfer ausgeschaltet, muss er innerhalb von x Sekunden wiederbelebt werden. Nach Ablauf der x Sekunden hat das Monster ebenfalls gewonnen. Hält sich das Monster in der Nähe einer Leiche auf, werden ihm pro Sekunde y Lebenspunkt abgezogen.
 
 Map: Eine Map Area ist ein Rechteck. Sie kann in bis zu vier Richtungen (oben, rechts, unten, links) verlassen werden. In ihr können sich unbewegliche Hindernisse, Minimonster, Minimonsterfabriken und Fallen (Explosion bei Übergang) befinden. Manche haben ein Portal, durch das ein Kämpfer zu einem anderen (zufälligen) Portal gelangt. Die Map muss nicht ein Rechteck ergeben.
 (Ausstattung, Anzahl und Art der NPC, Ein- und Ausgänge werden automatisch und zufällig generiert?)
