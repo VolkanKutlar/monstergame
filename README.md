@@ -8,5 +8,6 @@ We are making a simple RPG game for iOS and OS X.
 Gameplay Preview [Video: Click to watch!] (https://drive.google.com/open?id=0B3aIUU4KmFBJTjBtd3BXWGtRdk0)
 
 #Screenshots
-![alt text](DungeonArena/Konzeption/UI_Prototype/assets/GUI/1.Start Raum.jpg "Screenshot 1")
+GUI Prototype:
+![alt text](https://github.com/HftStuttgartSP2/DungeonArena/blob/master/Konzeption/UI_Prototype/assets/GUI/1.Start%20Raum.jpg "Screenshot 1")
 
